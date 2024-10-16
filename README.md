@@ -1,6 +1,8 @@
 # Trello_API_UsingRset-assured
 
 This project is an API testing framework built using Java, REST Assured, Maven, and TestNG for testing Trello's API. It provides a comprehensive suite of tests covering various scenarios, ensuring the reliability and functionality of interactions with Trello's API endpoints.
+
+
 Key Features
 ---
 REST Assured Framework: Utilizes the powerful REST Assured framework to streamline API testing in Java.
